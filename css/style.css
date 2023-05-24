@@ -1,0 +1,38 @@
+
+body{
+	text-align: center;
+	width: 900;
+}
+
+h1{
+	font-size: 2em;
+}
+
+h2{
+	font-size: 1.5em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  text-align: center;
+}
+
+li:not(:last-child) {
+    margin-bottom: 10px;
+}
+
+#intro{
+
+}
+
+#publications{
+
+}
+
+#cv{
+
+}
+
